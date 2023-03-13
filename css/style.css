@@ -87,14 +87,14 @@ header input {
   width: 300px;
 }
 
-/* header button {
+header button {
   cursor: pointer;
   transition: opacity .3s;
 }
 
 header button:hover {
   opacity: .5;
-} */
+}
 
 /* hero */
 
